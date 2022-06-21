@@ -10,7 +10,7 @@ const Header = ({ currentUser }) => (
         </Link>
         <div className='options'>
             <Link className='option' to='/shop'>
-                SHOP
+                Optin
             </Link>
             <Link className='option' to='/shop'>
                 CONTACT
